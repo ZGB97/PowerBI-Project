@@ -23,7 +23,7 @@ Created Database:  <br/>
 <img src="https://i.imgur.com/9XTupOV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Run Scripts: <br/>
+Ran Scripts: <br/>
 <img src="https://i.imgur.com/bGfSnlM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
